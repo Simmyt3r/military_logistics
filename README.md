@@ -188,11 +188,10 @@ This system was developed using a hybrid methodology combining traditional SDLC 
 - Secure coding practices
 - Performance optimization
 - User-centered design
-
 ## License
 
 This project is licensed under the MIT License.
 
 ## Credits
 
-Developed by the NinjaTech AI team.
+Developed by Sarverun Simeon Tertese.
